@@ -52,9 +52,8 @@ const LogIn = () => {
             >
               submit
             </button>
-          </form>
+          </form>       
 
-        
         </div>
       </main>
     </div>
